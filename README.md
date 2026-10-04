@@ -12,7 +12,7 @@ A small, practical sample of templates and review tools for software documentati
 | `style-guide/` | Technical writing style guide |
 | `glossary/` | Glossary template |
 
-The complete toolkit contains additional templates, checklists, planning tools, API documentation examples, Docusaurus references, and a searchable PDF. The paid-edition link will be added here when available.
+The complete toolkit contains additional templates, checklists, planning tools, API documentation examples, Docusaurus references, and a searchable PDF. Get the [complete bundle for $10 on Gumroad](https://makaruki.gumroad.com/l/technical-writer-toolkit-complete).
 
 ## Get started
 
@@ -27,9 +27,9 @@ The fictional Parcelwise examples are illustrative. Verify every instruction, co
 
 The files in this free edition are licensed under the Creative Commons Attribution 4.0 International license (CC BY 4.0). You may share and adapt them, including for commercial use, provided you give appropriate credit, link to the license, and indicate changes. See [LICENSE](LICENSE).
 
-## Support
+## Support and feedback
 
-If these materials are useful, you can support future updates by purchasing the complete toolkit or leaving a tip. Add the checkout and tip links here before publishing this edition.
+If these materials are useful, consider getting the [complete toolkit](https://makaruki.gumroad.com/l/technical-writer-toolkit-complete). You can also use the repository's Issues tab to share feedback or suggest improvements. A tip option may be added later.
 
 ## Publishing this edition on GitHub
 
